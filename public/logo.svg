@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="18" viewBox="0 0 118 18">
+  <!-- Car Icon -->
+  <rect x="2" y="7" width="12" height="4" rx="2" fill="#1E90FF"/>
+  <circle cx="5" cy="14" r="2" fill="#1E90FF"/>
+  <circle cx="13" cy="14" r="2" fill="#1E90FF"/>
+  <path d="M2 7 L8 2 L14 7" fill="#1E90FF"/>
+
+  <!-- Text -->
+  <text x="20" y="14" font-family="Arial, sans-serif" font-size="10" fill="#004F9F" font-weight="bold">
+    DriveSphere
+  </text>
+</svg>
